@@ -21,3 +21,13 @@ console.log('Учим JS');
 
 const MAX_VALUE = 17
 let arr = ['HTML', 'CSS', 'JS'];
+
+// Операторы +, -, *, /
+console.log('Learn' + 'JS');
+
+//  Пример блока инструкций
+function name() {
+    console.log('Learn');
+    console.log('JS');
+}
+name();
